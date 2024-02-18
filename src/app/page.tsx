@@ -20,7 +20,7 @@ export default function Home() {
           className="text-black"
           onChange={(e) => setValue(e.target.value)}
         />
-        <button type="submit">Submit</button>
+        <button type="submit">Predict my info</button>
       </form>
     </main>
   );
